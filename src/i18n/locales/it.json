@@ -1,0 +1,169 @@
+{
+  "nav": {
+    "about": "Chi sono",
+    "skills": "Competenze",
+    "experience": "Esperienza",
+    "projects": "Progetti",
+    "education": "Formazione",
+    "contact": "Contatto"
+  },
+  "hero": {
+    "greeting": "Ciao, sono",
+    "name": "Milan Radulovic",
+    "title": "Ingegnere Frontend Senior",
+    "subtitle": "Specialista React • Eccellenza UI/UX",
+    "tagline": "Creo esperienze digitali eccezionali con precisione, prestazioni e passione.",
+    "cta": "Connettiamoci",
+    "downloadCV": "Scarica CV"
+  },
+  "about": {
+    "title": "Chi Sono",
+    "description": "Sono Ingegnere Frontend Senior con {{years}} anni di esperienza pratica nella creazione di applicazioni web che funzionano davvero — e funzionano bene. Ho consegnato soluzioni per aziende globali in intrattenimento, fintech e SaaS, sempre con focus su codice pulito, prestazioni reali e ottima esperienza utente. Lavoro bene con team internazionali, comunico chiaramente e mi interessa genuinamente il prodotto, non solo il codice. Nel mio tempo libero, piloto occasionalmente piccoli aerei come hobby — mi aiuta a rimanere concentrato e mi ricorda che la precisione conta.",
+    "highlights": {
+      "react": "Padronanza dell'ecosistema React — dagli hooks all'ottimizzazione delle prestazioni",
+      "product": "Mentalità da proprietario di prodotto con capacità di consegna end-to-end",
+      "performance": "Attenzione ossessiva alle prestazioni, accessibilità e precisione UX",
+      "agile": "Forte collaboratore in team Agile/Scrum con eccellente comunicazione",
+      "architecture": "Solide capacità di debugging e progettazione di architetture scalabili",
+      "learning": "Rapida adozione di nuove tecnologie e best practice del settore"
+    }
+  },
+  "skills": {
+    "title": "Stack Tecnologico",
+    "categories": {
+      "languages": "Linguaggi",
+      "frameworks": "Framework e Librerie",
+      "stateData": "State e Dati",
+      "styling": "Styling e UI",
+      "monitoring": "Monitoraggio e Integrazioni",
+      "tooling": "Strumenti e Workflow"
+    }
+  },
+  "experience": {
+    "title": "Esperienza",
+    "yearsLabel": "anni di esperienza",
+    "present": "Presente",
+    "achievements": "Risultati Chiave",
+    "jobs": {
+      "endava": {
+        "title": "Ingegnere Frontend Senior",
+        "company": "Endava",
+        "period": "Ott 2021 - Presente",
+        "achievements": {
+          "0": "Costruire e mantenere applicazioni React su scala aziendale per clienti internazionali",
+          "1": "Scrivere test unitari per garantire affidabilità e manutenibilità del codice",
+          "2": "Lavorare con più team di diversi continenti su progetti complessi",
+          "3": "Supportare il team Prodotto con approfondimenti tecnici e fattibilità delle funzionalità",
+          "4": "Partecipare alle comunicazioni con i clienti e alle discussioni sui requisiti",
+          "5": "Implementare funzionalità UI complesse con focus su prestazioni e accessibilità"
+        }
+      },
+      "rbt": {
+        "title": "Sviluppatore Software",
+        "company": "Red-Black Tree",
+        "period": "Nov 2018 - Ott 2021",
+        "achievements": {
+          "0": "Sviluppare e mantenere applicazioni web responsive usando framework JavaScript moderni",
+          "1": "Guidare la formazione Frontend durante il programma di tirocinio",
+          "2": "Costruire strumenti interni per migliorare la produttività del team"
+        }
+      }
+    },
+    "projects": {
+      "music": {
+        "name": "Piattaforma Musica e Intrattenimento",
+        "description": "Piattaforma streaming e gestione diritti su larga scala",
+        "tech": ".NET, C#, PostgreSQL, Angular"
+      },
+      "esignature": {
+        "name": "Soluzione Firma Elettronica",
+        "description": "Firma documenti aziendali con automazione workflow",
+        "tech": "React, Java, Splunk"
+      },
+      "customerSuccess": {
+        "name": "Piattaforma Successo Cliente",
+        "description": "Analisi e reportistica per engagement clienti",
+        "tech": "React, TypeScript, Visualizzazione Dati"
+      },
+      "uno": {
+        "name": "Gioco di Carte Uno",
+        "description": "Ricreazione gioco multiplayer, progetto universitario",
+        "tech": "Java"
+      },
+      "restaurant": {
+        "name": "Piattaforma Ristorante Online",
+        "description": "App web per ordini e gestione ristorante",
+        "tech": "HTML, CSS, JavaScript"
+      },
+      "shootingClub": {
+        "name": "Gestione Club di Tiro",
+        "description": "Piattaforma completa per iscrizioni ed eventi",
+        "tech": "React, TypeScript"
+      }
+    }
+  },
+  "projects": {
+    "title": "Progetti in Evidenza",
+    "viewDemo": "Demo Live",
+    "viewCode": "Vedi Codice",
+    "techUsed": "Tecnologie",
+    "selectedHighlights": "Progetti selezionati da un portfolio più ampio"
+  },
+  "education": {
+    "title": "Formazione",
+    "degree": "Laurea in Ingegneria, Tecnologie dell'Informazione",
+    "university": "Facoltà di Scienze Tecniche Čačak",
+    "period": "2015 - 2019"
+  },
+  "languages": {
+    "title": "Lingue",
+    "items": {
+      "serbian": "Serbo",
+      "english": "Inglese",
+      "spanish": "Spagnolo",
+      "portuguese": "Portoghese"
+    },
+    "levels": {
+      "native": "Madrelingua",
+      "fullProficiency": "Competenza completa"
+    },
+    "fluent": "Fluente",
+    "native": "Madrelingua",
+    "professional": "Professionale",
+    "conversational": "Conversazionale"
+  },
+  "contact": {
+    "title": "Lavoriamo Insieme",
+    "subtitle": "Disponibile per ruoli frontend, ingegneria React e sviluppo prodotto.",
+    "cta": "Costruiamo insieme qualcosa di eccezionale.",
+    "email": "Invia Email",
+    "linkedin": "Connettiti su LinkedIn",
+    "location": "Belgrado, Serbia",
+    "phone": "Telefono"
+  },
+  "footer": {
+    "copyright": "© 2024 Milan Radulović. Creato con precisione.",
+    "print": "Stampa CV",
+    "referencesAvailable": "Referenze disponibili su richiesta"
+  },
+  "theme": {
+    "light": "Chiaro",
+    "dark": "Scuro",
+    "system": "Sistema"
+  },
+  "sidebar": {
+    "interests": "Interessi",
+    "interestItems": {
+      "programming": "Programmazione",
+      "ai": "IA",
+      "uiux": "UI/UX",
+      "aviation": "Aviazione",
+      "languages": "Lingue",
+      "music": "Musica"
+    },
+    "design": "Design",
+    "name": "Milan Radulovic",
+    "openToWork": "Aperto a Opportunità",
+    "workPreference": "Remoto • Ibrido • In sede | Ovunque"
+  }
+}

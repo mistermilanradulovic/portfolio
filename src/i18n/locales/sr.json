@@ -1,0 +1,169 @@
+{
+  "nav": {
+    "about": "O meni",
+    "skills": "Veštine",
+    "experience": "Iskustvo",
+    "projects": "Projekti",
+    "education": "Obrazovanje",
+    "contact": "Kontakt"
+  },
+  "hero": {
+    "greeting": "Zdravo, ja sam",
+    "name": "Milan Radulović",
+    "title": "Senior Frontend Inženjer",
+    "subtitle": "React Specijalista • UI/UX Majstorstvo",
+    "tagline": "Gradim izuzetna digitalna iskustva sa preciznošću, performansama i strašću.",
+    "cta": "Kontaktirajte me",
+    "downloadCV": "Preuzmi CV"
+  },
+  "about": {
+    "title": "O Meni",
+    "description": "Senior Frontend Inženjer sa {{years}} godina praktičnog iskustva u izradi web aplikacija koje rade pouzdano i dobro. Radim na izradi profesionalnih rešenja za globalne kompanije, u raznim industrijama. Posvećen sam, pažljiv i uvek sa fokusom na čist kod, stvarne performanse i odličan korisnički doživljaj. Dobro radim sa međunarodnim timovima, komuniciram na više jezika, jasno i fluidno. Iskreno mi je stalo do kvaliteta proizvoda, a ne samo do pisanja koda. U slobodno vreme, povremeno letim malim avionima — taj hobi mi pomaže da jačam fokus, negujem osećaj odgovornosti i preciznost u pristupu ka rešavanju složenih problema.",
+    "highlights": {
+      "react": "Majstorstvo React ekosistema — od hook-ova do optimizacije performansi",
+      "product": "Mentalitet vlasnika proizvoda sa sposobnošću end-to-end isporuke",
+      "performance": "Opsesivna pažnja ka performansama, pristupačnosti i UX preciznosti",
+      "agile": "Jak saradnik u Agile/Scrum timovima sa odličnom komunikacijom",
+      "architecture": "Solidne veštine debugovanja i dizajna skalabilne arhitekture",
+      "learning": "Brzo usvajanje novih tehnologija i najboljih praksi u industriji"
+    }
+  },
+  "skills": {
+    "title": "Tehnološki Stack",
+    "categories": {
+      "languages": "Jezici",
+      "frameworks": "Framework-ovi i Biblioteke",
+      "stateData": "State i Podaci",
+      "styling": "Stilizovanje i UI",
+      "monitoring": "Monitoring i Integracije",
+      "tooling": "Alati i Workflow"
+    }
+  },
+  "experience": {
+    "title": "Iskustvo",
+    "yearsLabel": "godina iskustva",
+    "present": "Trenutno",
+    "achievements": "Ključna Dostignuća",
+    "jobs": {
+      "endava": {
+        "title": "Senior Frontend Inženjer",
+        "company": "Endava",
+        "period": "Okt 2021 - Trenutno",
+        "achievements": {
+          "0": "Izrada i održavanje React aplikacija",
+          "1": "Pisanje unit testova za osiguranje pouzdanosti i održivosti koda",
+          "2": "Rad sa više timova sa različitih kontinenata, na različitim jezicima, na kompleksnim projektima",
+          "3": "Podrška Product timu sa tehničkim uvidima u izvodljivost pojedinih rešenja",
+          "4": "Učešće u komunikaciji sa klijentima i diskusijama o zahtevima",
+          "5": "Implementacija kompleksnih UI funkcionalnosti sa fokusom na performanse i pristupačnost"
+        }
+      },
+      "rbt": {
+        "title": "Softverski Developer",
+        "company": "Red-Black Tree",
+        "period": "Nov 2018 - Okt 2021",
+        "achievements": {
+          "0": "Razvoj i održavanje responzivnih web aplikacija koristeći moderne JavaScript framework-e",
+          "1": "Vođenje Frontend obuke tokom programa prakse",
+          "2": "Izgradnja internih alata za poboljšanje produktivnosti tima"
+        }
+      }
+    },
+    "projects": {
+      "music": {
+        "name": "Muzička industrija",
+        "description": "Velika platforma za streaming i upravljanje pravima",
+        "tech": ".NET, C#, PostgreSQL, Angular"
+      },
+      "esignature": {
+        "name": "Elektronsko potpisivanje",
+        "description": "Korporativno potpisivanje dokumenata sa automatizacijom",
+        "tech": "React, Java, Splunk"
+      },
+      "customerSuccess": {
+        "name": "Angažovanje sa klijentima",
+        "description": "Analitika i izveštavanje za angažovanje klijenata",
+        "tech": "React, TypeScript, Vizualizacija Podataka"
+      },
+      "uno": {
+        "name": "Uno - društvena igra",
+        "description": "Multiplayer igra, univerzitetski projekat",
+        "tech": "Java"
+      },
+      "restaurant": {
+        "name": "Softversko rešenje za restoran",
+        "description": "Web aplikacija za naručivanje i upravljanje restoranom",
+        "tech": "HTML, CSS, JavaScript"
+      },
+      "shootingClub": {
+        "name": "Sistem za upravljanje sportskim klubom",
+        "description": "Kompletna platforma za članstva i događaje",
+        "tech": "React, TypeScript"
+      }
+    }
+  },
+  "projects": {
+    "title": "Istaknuti Projekti",
+    "viewDemo": "Demo",
+    "viewCode": "Pogledaj Kod",
+    "techUsed": "Tehnologije",
+    "selectedHighlights": "Odabrani projekti iz šireg portfolija"
+  },
+  "education": {
+    "title": "Obrazovanje",
+    "degree": "Inženjerska diploma, Informacione Tehnologije",
+    "university": "Fakultet Tehničkih Nauka Čačak",
+    "period": "2015 - 2019"
+  },
+  "languages": {
+    "title": "Jezici",
+    "items": {
+      "serbian": "Srpski",
+      "english": "Engleski",
+      "spanish": "Španski",
+      "portuguese": "Portugalski"
+    },
+    "levels": {
+      "native": "Maternji",
+      "fullProficiency": "Puna kompetencija"
+    },
+    "fluent": "Tečno",
+    "native": "Maternji",
+    "professional": "Profesionalno",
+    "conversational": "Konverzaciono"
+  },
+  "contact": {
+    "title": "Hajde da Radimo Zajedno",
+    "subtitle": "Dostupan za frontend pozicije, React inženjering i razvoj proizvoda.",
+    "cta": "Hajde da zajedno izgradimo nešto izuzetno.",
+    "email": "Pošalji Email",
+    "linkedin": "Poveži se na LinkedIn",
+    "location": "Beograd, Srbija",
+    "phone": "Telefon"
+  },
+  "footer": {
+    "copyright": "© 2024 Milan Radulović. Kreirano sa preciznošću.",
+    "print": "Štampaj CV",
+    "referencesAvailable": "Reference dostupne na zahtev"
+  },
+  "theme": {
+    "light": "Svetla",
+    "dark": "Tamna",
+    "system": "Sistem"
+  },
+  "sidebar": {
+    "interests": "Interesovanja",
+    "interestItems": {
+      "programming": "Programiranje",
+      "ai": "VI",
+      "uiux": "UI/UX",
+      "aviation": "Avijacija",
+      "languages": "Jezici",
+      "music": "Muzika"
+    },
+    "design": "Dizajn",
+    "name": "Milan Radulović",
+    "openToWork": "Otvoren za Saradnju",
+    "workPreference": "Remote • Hibrid • Na licu mesta | Bilo gde u svetu"
+  }
+}
